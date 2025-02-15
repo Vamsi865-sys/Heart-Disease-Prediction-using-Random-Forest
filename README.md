@@ -1,6 +1,6 @@
 # Heart-Disease-Prediction-using-Random-Forest
 This project demonstrates how to predict heart disease using a machine learning model based on the Random Forest algorithm. The dataset used is the Cleveland Heart Disease Dataset, which contains multiple health attributes for predicting whether or not a person has heart disease.
-#Dataset
+*Dataset*
 The dataset used in this project is the Cleveland Heart Disease Dataset from Kaggle. It contains the following attributes:
 
 Features: Age, sex, chest pain type, resting blood pressure, cholesterol, fasting blood sugar, resting ECG, maximum heart rate, exercise-induced angina, ST depression, and other features.
